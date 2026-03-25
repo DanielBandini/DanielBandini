@@ -1,16 +1,25 @@
-## Hi there 👋
+## Olá! Eu sou o Daniel Bandini
 
-<!--
-**DanielBandini/DanielBandini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-🎓 Estudante de Análise e Desenvolvimento de Sistemas ( 1° semestre )    
+-🚀 Em busca de estágio na área de tecnologia 
+### 📊 Estatísticas
+<div>
+  <p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=DanielBandini&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+  />
 
-Here are some ideas to get you started:
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBandini&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+</div>
+
